@@ -9,14 +9,14 @@
 </head>
 <body>
     <header>
-        <figure><image></image></figure>
+<%--        <figure><image></image></figure>--%>
         Хедер
     </header>
 
     <nav>
         <ul>
             <li><a href="Default.aspx">Главная</a></li>
-            <li><a href="Default.aspx">Главная</a></li>
+            <li><a href="PrivatePage.aspx">Приватная страница</a></li>
             <li><a href="Default.aspx">Главная</a></li>
             <li><a href="Default.aspx">Главная</a></li>
             <li><a href="Login/Login.aspx">Войти</a></li>
